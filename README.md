@@ -1,4 +1,5 @@
 # dem_git
-Une demo git openClassroom
+*Une demo git openClassroom*
 à insérer au cours de C
+
 
